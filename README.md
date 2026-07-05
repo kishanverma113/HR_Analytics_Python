@@ -1,5 +1,3 @@
-# HR_Analytics_Python
-
 # 📊 HR Analytics using Python
 
 > **An end-to-end HR Analytics project built with Python, Pandas, NumPy, Matplotlib, and Seaborn to analyze employee data, perform Exploratory Data Analysis (EDA), and generate actionable business insights through statistical analysis and interactive visualizations.**
